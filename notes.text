@@ -4,3 +4,5 @@ do this everytime a change is made to folder (webiste)
 4 cmd= " git push origin master " 
 
 extra cmd= " git status " 
+
+more notes 
