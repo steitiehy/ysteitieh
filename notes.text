@@ -1,0 +1,6 @@
+do this everytime a change is made to folder (webiste)
+1 cmd= " git add . "
+2 cmd= " git commit -m "any message/comment" "
+4 cmd= " git push origin master " 
+
+extra cmd= " git status " 
